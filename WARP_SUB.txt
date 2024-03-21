@@ -35,7 +35,7 @@
     ],
     "rules": [
       {
-        "domain_suffix": ".ru",
+        "domain_suffix": ".ir",
         "server": "dns-direct"
       },
       {
