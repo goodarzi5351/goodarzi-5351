@@ -9,7 +9,7 @@
     "servers": [
       {
         "tag": "dns-remote",
-        "address": "udp://1.1.1.1",
+        "address": "tcp://1.1.1.1",
         "address_resolver": "dns-direct"
       },
       {
@@ -82,7 +82,7 @@
       "tag": "select",
       "outbounds": [
         "auto",
-        "👉🆔_@FORWARDV2RAY_1",
+        "👉🆔_@goodarzi5351",
         "👉🆔_@FORWARDV2RAY_2",
         "👉🆔_@FORWARDV2RAY_3",
         "👉🆔_@FORWARDV2RAY_4",
