@@ -1733,7 +1733,7 @@
       "default": "auto"
     },
     {
-      "type": "goodarzi5351",	
+      "type": "urltest",	
       "tag": "auto",
       "outbounds": [	  
         "👉🆔_@goodarzi5351_1",
