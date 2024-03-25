@@ -1736,7 +1736,7 @@
       "type": "urltest",	
       "tag": "auto",
       "outbounds": [	  
-        "👉🆔_@FORWARDV2RAY_1",
+        "👉🆔_@goodarzi5351_1",
         "👉🆔_@FORWARDV2RAY_2",
         "👉🆔_@FORWARDV2RAY_3",
         "👉🆔_@FORWARDV2RAY_4",
@@ -3381,7 +3381,7 @@
  
       ],
       "url": "http://cp.cloudflare.com/",
-      "interval": "4m0s"
+      "interval": "10m0s"
     },
     {
       "type": "wireguard",
