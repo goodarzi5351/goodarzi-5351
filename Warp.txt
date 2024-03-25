@@ -82,8 +82,8 @@
   ],
   "outbounds": [
     {
-      "type": "selector",
-      "tag": "goodazri5351",
+      "type": "goodarzi5351",
+      "tag": "auto",
       "outbounds": [
         "auto",
         "👉🆔_@goodarzi5351_1",
@@ -1733,8 +1733,8 @@
       "default": "auto"
     },
     {
-      "type": "urltest",	
-      "tag": "goodarzi5351",
+      "type": "goodarzi5351",	
+      "tag": "auto",
       "outbounds": [	  
         "👉🆔_@goodarzi5351_1",
         "👉🆔_@FORWARDV2RAY_2",
