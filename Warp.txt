@@ -23,7 +23,7 @@
       },
       {
         "tag": "dns-direct",
-        "address": "1.1.1.1",
+        "address": "tcp://1.1.1.1",
         "address_resolver": "dns-local",
         "detour": "direct"
       },
@@ -76,7 +76,7 @@
       "tag": "dns-in",
       "listen": "127.0.0.1",
       "listen_port": 6450,
-      "override_address": "1.1.1.1",
+      "override_address": "tcp://1.1.1.1",
       "override_port": 53
     }
   ],
