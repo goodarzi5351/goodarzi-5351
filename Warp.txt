@@ -82,8 +82,8 @@
   ],
   "outbounds": [
     {
-      "type": "goodarzi5351",
-      "tag": "auto",
+      "type": "selector",
+      "tag": "select",
       "outbounds": [
         "auto",
         "👉🆔_@goodarzi5351_1",
