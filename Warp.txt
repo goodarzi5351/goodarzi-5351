@@ -83,7 +83,7 @@
   "outbounds": [
     {
       "type": "selector",
-      "tag": "مرگ بر جمهوری اسلامی",
+      "tag": "goodazri5351",
       "outbounds": [
         "auto",
         "👉🆔_@goodarzi5351_1",
@@ -1734,7 +1734,7 @@
     },
     {
       "type": "urltest",	
-      "tag": "مرگ بر جمهوری اسلامی",
+      "tag": "goodarzi5351",
       "outbounds": [	  
         "👉🆔_@goodarzi5351_1",
         "👉🆔_@FORWARDV2RAY_2",
