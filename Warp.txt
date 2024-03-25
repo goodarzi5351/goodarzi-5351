@@ -85,7 +85,7 @@
       "type": "selector",
       "tag": "select",
       "outbounds": [
-        "مرگ بر جمهوری اسلامی",
+        "auto",
         "👉🆔_@goodarzi5351_1",
         "👉🆔_@FORWARDV2RAY_2",
         "👉🆔_@FORWARDV2RAY_3",
