@@ -87,9 +87,9 @@
       "outbounds": [
         "auto",
         "👉🆔_@goodarzi5351_1",
-        "👉🆔_@FORWARDV2RAY_2",
-        "👉🆔_@FORWARDV2RAY_3",
-        "👉🆔_@FORWARDV2RAY_4",
+        "👉🆔_@goodarzi5351_2",
+        "👉🆔_@goodarzi5351_3",
+        "👉🆔_@goodarzi5351_4",
         "👉🆔_@FORWARDV2RAY_5",
         "👉🆔_@FORWARDV2RAY_6",
         "👉🆔_@FORWARDV2RAY_7",
@@ -1737,9 +1737,9 @@
       "tag": "auto",
       "outbounds": [	  
         "👉🆔_@goodarzi5351_1",
-        "👉🆔_@FORWARDV2RAY_2",
-        "👉🆔_@FORWARDV2RAY_3",
-        "👉🆔_@FORWARDV2RAY_4",
+        "👉🆔_@goodarzi5351_2",
+        "👉🆔_@goodarzi5351_3",
+        "👉🆔_@goodarzi5351_4",
         "👉🆔_@FORWARDV2RAY_5",
         "👉🆔_@FORWARDV2RAY_6",
         "👉🆔_@FORWARDV2RAY_7",
@@ -3402,7 +3402,7 @@
     },
     {
       "type": "wireguard",
-      "tag": "👉🆔_@FORWARDV2RAY_2",
+      "tag": "👉🆔_@goodarzi5351_2",
       "local_address": [
         "172.16.0.2/24",
         "2606:4700:110:878b:ff7c:b5fe:3c38:a531/128"
@@ -3419,7 +3419,7 @@
     },
     {
       "type": "wireguard",
-      "tag": "👉🆔_@FORWARDV2RAY_3",
+      "tag": "👉🆔_@goodarzi5351_3",
       "local_address": [
         "172.16.0.2/24",
         "2606:4700:110:83ac:5458:5cec:a183:eae1/128"
@@ -3436,7 +3436,7 @@
     },
     {
       "type": "wireguard",
-      "tag": "👉🆔_@FORWARDV2RAY_4",
+      "tag": "👉🆔_@goodarzi5351_4",
       "local_address": [
         "172.16.0.2/24",
         "2606:4700:110:8d1c:5702:1cbe:491e:6691/128"
